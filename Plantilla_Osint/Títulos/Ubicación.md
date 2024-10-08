@@ -1,0 +1,2 @@
+- Hogar: [[Hogar]]
+- Lugar de votación: [[Lugar Votación]]

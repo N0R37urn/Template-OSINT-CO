@@ -1,0 +1,5 @@
+- **Madre:** [[Madre]]
+- **Padre:** [[Padre]]
+- **Hermano/Hermana:** [[Hermano]]
+- **Cónyuge/pareja:** [[Pareja]]
+- **Hijo/Hija:** [[Hijo]]

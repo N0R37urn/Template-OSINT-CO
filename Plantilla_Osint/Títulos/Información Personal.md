@@ -1,0 +1,4 @@
+- Información Personal: [[Personal]]
+- Miembros de la Familia: [[Familia]]
+- Empleo: [[Empleos]]
+- Educación: [[Estudio]]

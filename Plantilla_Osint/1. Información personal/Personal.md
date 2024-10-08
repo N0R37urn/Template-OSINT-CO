@@ -1,0 +1,8 @@
+- **Nombre:**
+- **Segundo nombre:**
+- **Apellido:**
+- **También conocido como (Alias):**
+- **Fecha de nacimiento:**
+- **Identificación:**
+- **Lugar de Votación:**
+- **EPS:**

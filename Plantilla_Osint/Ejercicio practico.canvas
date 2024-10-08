@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"14617646ce091159","type":"file","file":"1. Información personal/Personal.md","x":-760,"y":-580,"width":420,"height":340},
+		{"id":"011d17b0445a075e","type":"file","file":"1. Información personal/Familia/Padre.md","x":-360,"y":160,"width":400,"height":400},
+		{"id":"e4d9b0bbd3531820","type":"file","file":"2. Información adicional/Vehículos.md","x":320,"y":-440,"width":400,"height":400},
+		{"id":"73199ab865a9f7c5","type":"file","file":"Imagenes/Ejemplo1.png","x":-120,"y":-1080,"width":200,"height":201},
+		{"id":"96ad39d329535f2a","type":"file","file":"1. Información personal/Familia/Madre.md","x":-1440,"y":160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"efa514cfd568e810","fromNode":"14617646ce091159","fromSide":"top","toNode":"73199ab865a9f7c5","toSide":"left","label":"Posible persona"},
+		{"id":"9b7ae4d831efefa8","fromNode":"14617646ce091159","fromSide":"right","toNode":"e4d9b0bbd3531820","toSide":"left"},
+		{"id":"93111acee714b37f","fromNode":"14617646ce091159","fromSide":"bottom","toNode":"96ad39d329535f2a","toSide":"top","label":"Madre"},
+		{"id":"0e03ed7b0c386682","fromNode":"14617646ce091159","fromSide":"bottom","toNode":"011d17b0445a075e","toSide":"top","label":"Padre"}
+	]
+}
